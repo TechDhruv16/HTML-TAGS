@@ -1,1 +1,1 @@
-![Uploading screencapture-127-0-0-1-5500-index-html-2025-08-08-15_27_27.png…]()
+filesystem:chrome-extension://fdpohaocaechififmbbbbbknoalclacl/persistent/screencapture-127-0-0-1-5500-index-html-2025-08-08-15_33_19.png
